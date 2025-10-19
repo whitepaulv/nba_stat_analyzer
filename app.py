@@ -146,7 +146,7 @@ def main():
                         st.session_state.output.warning("No data found for that season.")
                     else:
                         st.session_state.output.markdown("### **Loading...**")
-                        desc = ai_descriptions(f"Write a 100-word summary evaluating {team['full_name']}'s franchise history.")
+                        desc = ai_descriptions(f"Write a 100-word summary evaluating {team['full_name']}'s franchise history.", year)
                         
                         st.session_state.output.markdown(f"""
                             ### {team['full_name']} Info
