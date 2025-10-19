@@ -23,19 +23,19 @@ Thank you so much for ckecking my project out!
 
 # How to run:
 1. Clone the repository  
--bash
--git clone https://github.com/whitepaulv/nba_stat_analyzer.git
--cd nba_stat_analyzer
+- bash
+- git clone https://github.com/whitepaulv/nba_stat_analyzer.git
+- cd nba_stat_analyzer
 
 2. Create a virtual environment
--python3 -m venv venv
--source venv/bin/activate on Mac. On Windows: venv\Scripts\activate
--pip install -r requirements.txt
+- python3 -m venv venv
+- source venv/bin/activate on Mac. On Windows: venv\Scripts\activate
+- pip install -r requirements.txt
 
 3. Add your own API key to ai_summary.py
 
 4. Run
--streamlit run app.py
+- streamlit run app.py
 
 
 
