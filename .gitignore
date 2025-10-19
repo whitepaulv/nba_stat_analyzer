@@ -1,1 +1,20 @@
+# --- Streamlit secrets (contains API keys)
 .streamlit/
+
+# --- Virtual environment folder (auto-generated, huge)
+venv/
+
+# --- Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- VS Code settings (personal/local)
+.vscode/
+
+# --- System files (Mac)
+.DS_Store
+
+# --- Optional: settings folder (if it's only local config, not code)
+settings/
