@@ -37,5 +37,19 @@ Thank you so much for ckecking my project out!
 4. Run
 - streamlit run app.py
 
+## Screenshots:
+### Main Interface
+![Main Interface](images/ss1.PNG)
 
+### Player Search Year Examples
+![Player Search](images/ss2.PNG)
+
+### Player Search Career Example
+![Team Summary](images/ss3.PNG)
+
+### Team Search Year Example
+![AI Summary](images/ss4.PNG)
+
+### Team Search Career Example
+![AI Summary](images/ss5.PNG)
 
